@@ -1,0 +1,10 @@
+Thesaurus 30.0
+Bible 10.0
+hello 20.0
+wow 20.0
+damn 20.0
+hello 21.0
+there 21.0
+eta 32.0
+haha 12.0
+ew 32.0
